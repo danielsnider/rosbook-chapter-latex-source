@@ -1,0 +1,2691 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 2 -->
+<svg x="0" y="0" width="934" height="1209" viewBox="0 0 934 1209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_2{
+fill: #EDEDED;
+}
+.g2_2{
+fill: #00000A;
+}
+.g3_2{
+fill: #C9C9C9;
+}
+.g4_2{
+fill: none;
+stroke: #0563C1;
+stroke-width: 0.6111111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_2{
+fill: none;
+stroke: #000000;
+stroke-width: 0.45833334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_2{
+fill: none;
+stroke: #000000;
+stroke-width: 0.6111111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_2{
+fill: none;
+stroke: #131413;
+stroke-width: 0.6111111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_2{
+font-size: 12.22px;
+font-family: DejaVuSans-Bold_29;
+fill: #000000;
+}
+.s2_2{
+font-size: 10.69px;
+font-family: DejaVuSans_24;
+fill: #000000;
+}
+.s3_2{
+font-size: 9.17px;
+font-family: DejaVuSans-Bold_29;
+fill: #000000;
+}
+.s4_2{
+font-size: 12.22px;
+font-family: DejaVuSans_24;
+fill: #000000;
+}
+.s5_2{
+font-size: 8.40px;
+font-family: DejaVuSans_24;
+fill: #000000;
+}
+.s6_2{
+font-size: 7.64px;
+font-family: DejaVuSans_24;
+fill: #000000;
+}
+.s7_2{
+font-size: 10.69px;
+font-family: DejaVuSans_24;
+fill: #131413;
+}
+.s8_2{
+font-size: 9.93px;
+font-family: DejaVuSans_24;
+fill: #131413;
+}
+.s9_2{
+font-size: 9.17px;
+font-family: DejaVuSans_24;
+fill: #000000;
+}
+.s10_2{
+font-size: 6.88px;
+font-family: DejaVuSans_24;
+fill: #131413;
+}
+.s11_2{
+font-size: 6.11px;
+font-family: DejaVuSans_24;
+fill: #131413;
+}
+.s12_2{
+font-size: 9.17px;
+font-family: DejaVuSans_24;
+fill: #131413;
+}
+.s13_2{
+font-size: 9.93px;
+font-family: DejaVuSans_24;
+fill: #000000;
+}
+.s14_2{
+font-size: 10.69px;
+font-family: DejaVuSans-Bold_29;
+fill: #000000;
+}
+.s15_2{
+font-size: 10.69px;
+font-family: DejaVuSans_24;
+fill: #0563C1;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1209
+L934,1209
+L934,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M172.2,162.5l84.3,0l0,-52.4l-84.3,0l0,52.4Z" class="g1_2" />
+<path fill-rule="evenodd" d="M341,162.5l84.3,0l0,-52.4l-84.3,0l0,52.4Z" class="g1_2" />
+<path fill-rule="evenodd" d="M509.7,162.5l84.3,0l0,-52.4l-84.3,0l0,52.4Z" class="g1_2" />
+<path fill-rule="evenodd" d="M678.5,162.5l84.3,0l0,-52.4l-84.3,0l0,52.4Z" class="g1_2" />
+<path fill-rule="evenodd" d="M172.2,184.7l84.3,0l0,-22.2l-84.3,0l0,22.2Z" class="g1_2" />
+<path fill-rule="evenodd" d="M341,184.7l84.3,0l0,-22.2l-84.3,0l0,22.2Z" class="g1_2" />
+<path fill-rule="evenodd" d="M509.7,184.7l84.3,0l0,-22.2l-84.3,0l0,22.2Z" class="g1_2" />
+<path fill-rule="evenodd" d="M678.5,184.7l84.3,0l0,-22.2l-84.3,0l0,22.2Z" class="g1_2" />
+<path fill-rule="evenodd" d="M172.2,323.4l84.3,0l0,-138.7l-84.3,0l0,138.7Z" class="g1_2" />
+<path fill-rule="evenodd" d="M341,323.4l84.3,0l0,-138.7l-84.3,0l0,138.7Z" class="g1_2" />
+<path fill-rule="evenodd" d="M509.7,323.4l84.3,0l0,-138.7l-84.3,0l0,138.7Z" class="g1_2" />
+<path fill-rule="evenodd" d="M678.5,323.4l84.3,0l0,-138.7l-84.3,0l0,138.7Z" class="g1_2" />
+<path fill-rule="evenodd" d="M172.2,417.8l84.3,0l0,-94.4l-84.3,0l0,94.4Z" class="g1_2" />
+<path fill-rule="evenodd" d="M341,417.8l84.3,0l0,-94.4l-84.3,0l0,94.4Z" class="g1_2" />
+<path fill-rule="evenodd" d="M509.7,417.8l84.3,0l0,-94.4l-84.3,0l0,94.4Z" class="g1_2" />
+<path fill-rule="evenodd" d="M678.5,417.8l84.3,0l0,-94.4l-84.3,0l0,94.4Z" class="g1_2" />
+<path fill-rule="evenodd" d="M172.2,505.7l84.3,0l0,-87.9l-84.3,0l0,87.9Z" class="g1_2" />
+<path fill-rule="evenodd" d="M341,505.7l84.3,0l0,-87.9l-84.3,0l0,87.9Z" class="g1_2" />
+<path fill-rule="evenodd" d="M509.7,505.7l84.3,0l0,-87.9l-84.3,0l0,87.9Z" class="g1_2" />
+<path fill-rule="evenodd" d="M678.5,505.7l84.3,0l0,-87.9l-84.3,0l0,87.9Z" class="g1_2" />
+<path fill-rule="evenodd" d="M172.2,568.9l84.3,0l0,-63.2l-84.3,0l0,63.2Z" class="g1_2" />
+<path fill-rule="evenodd" d="M341,568.9l84.3,0l0,-63.2l-84.3,0l0,63.2Z" class="g1_2" />
+<path fill-rule="evenodd" d="M509.7,568.9l84.3,0l0,-63.2l-84.3,0l0,63.2Z" class="g1_2" />
+<path fill-rule="evenodd" d="M678.5,568.9l84.3,0l0,-63.2l-84.3,0l0,63.2Z" class="g1_2" />
+<path fill-rule="evenodd" d="M172.2,650l84.3,0l0,-81.1l-84.3,0l0,81.1Z" class="g1_2" />
+<path fill-rule="evenodd" d="M341,650l84.3,0l0,-81.1l-84.3,0l0,81.1Z" class="g1_2" />
+<path fill-rule="evenodd" d="M509.7,650l84.3,0l0,-81.1l-84.3,0l0,81.1Z" class="g1_2" />
+<path fill-rule="evenodd" d="M678.5,650l84.3,0l0,-81.1l-84.3,0l0,81.1Z" class="g1_2" />
+<path fill-rule="evenodd" d="M172.2,715l84.3,0l0,-65l-84.3,0l0,65Z" class="g1_2" />
+<path fill-rule="evenodd" d="M341,715l84.3,0l0,-65L341,650l0,65Z" class="g1_2" />
+<path fill-rule="evenodd" d="M509.7,715l84.3,0l0,-65l-84.3,0l0,65Z" class="g1_2" />
+<path fill-rule="evenodd" d="M678.5,715l84.3,0l0,-65l-84.3,0l0,65Z" class="g1_2" />
+<path fill-rule="evenodd" d="M172.2,769.3l84.3,0l0,-54.3l-84.3,0l0,54.3Z" class="g1_2" />
+<path fill-rule="evenodd" d="M341,769.3l84.3,0l0,-54.3L341,715l0,54.3Z" class="g1_2" />
+<path fill-rule="evenodd" d="M509.7,769.3l84.3,0L594,715l-84.3,0l0,54.3Z" class="g1_2" />
+<path fill-rule="evenodd" d="M678.5,769.3l84.3,0l0,-54.3l-84.3,0l0,54.3Z" class="g1_2" />
+<path fill-rule="evenodd" d="M172.2,110.6l-0.3,0.4L88,111l0,-0.4l0,-0.5l84.6,0l-0.4,0.5Z" class="g2_2" />
+<path fill-rule="evenodd" d="M256.5,110.6l0,0.4l-83.9,0l-0.4,-0.4l-0.3,-0.5l84.6,0l0,0.5Z" class="g2_2" />
+<path fill-rule="evenodd" d="M256.5,110.1l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g2_2" />
+<path fill-rule="evenodd" d="M341,110.1l84.3,0l0,0.9L341,111l0,-0.9Z" class="g2_2" />
+<path fill-rule="evenodd" d="M425.3,110.1l84.4,0l0,0.9l-84.4,0l0,-0.9Z" class="g2_2" />
+<path fill-rule="evenodd" d="M509.7,110.1l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g2_2" />
+<path fill-rule="evenodd" d="M594,110.1l84.5,0l0,0.9L594,111l0,-0.9Z" class="g2_2" />
+<path fill-rule="evenodd" d="M678.5,110.1l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g2_2" />
+<path fill-rule="evenodd" d="M762.8,110.1l84.2,0l0,0.9l-84.2,0l0,-0.9Z" class="g2_2" />
+<path fill-rule="evenodd" d="M172.2,163l-0.3,0.4l-83.9,0L88,163l0,-0.5l83.9,0l0.3,0.5Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,163l0,0.4l-83.9,0L172.2,163l0.4,-0.5l83.9,0l0,0.5Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,162.5l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M341,162.5l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M425.3,162.5l84.4,0l0,0.9l-84.4,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M509.7,162.5l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M594,162.5l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M678.5,162.5l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M762.8,162.5l84.2,0l0,0.9l-84.2,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M172.2,185.1l-0.3,0.5l-83.9,0l0,-0.5l0,-0.4l83.9,0l0.3,0.4Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,185.1l0,0.5l-83.9,0l-0.4,-0.5l0.4,-0.4l83.9,0l0,0.4Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,184.7l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M341,184.7l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M425.3,184.7l84.4,0l0,0.9l-84.4,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M509.7,184.7l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M594,184.7l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M678.5,184.7l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M762.8,184.7l84.2,0l0,0.9l-84.2,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M172.2,323.8l-0.3,0.5l-83.9,0l0,-0.5l0,-0.4l83.9,0l0.3,0.4Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,323.8l0,0.5l-83.9,0l-0.4,-0.5l0.4,-0.4l83.9,0l0,0.4Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,323.4l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M341,323.4l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M425.3,323.4l84.4,0l0,0.9l-84.4,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M509.7,323.4l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M594,323.4l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M678.5,323.4l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M762.8,323.4l84.2,0l0,0.9l-84.2,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M172.2,418.3l-0.3,0.4l-83.9,0l0,-0.4l0,-0.5l83.9,0l0.3,0.5Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,418.3l0,0.4l-83.9,0l-0.4,-0.4l0.4,-0.5l83.9,0l0,0.5Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,417.8l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M341,417.8l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M425.3,417.8l84.4,0l0,0.9l-84.4,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M509.7,417.8l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M594,417.8l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M678.5,417.8l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M762.8,417.8l84.2,0l0,0.9l-84.2,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M172.2,506.1l-0.3,0.5l-83.9,0l0,-0.5l0,-0.4l83.9,0l0.3,0.4Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,506.1l0,0.5l-83.9,0l-0.4,-0.5l0.4,-0.4l83.9,0l0,0.4Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,505.7l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M341,505.7l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M425.3,505.7l84.4,0l0,0.9l-84.4,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M509.7,505.7l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M594,505.7l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M678.5,505.7l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M762.8,505.7l84.2,0l0,0.9l-84.2,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M172.2,569.4l-0.3,0.4l-83.9,0l0,-0.4l0,-0.5l83.9,0l0.3,0.5Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,569.4l0,0.4l-83.9,0l-0.4,-0.4l0.4,-0.5l83.9,0l0,0.5Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,568.9l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M341,568.9l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M425.3,568.9l84.4,0l0,0.9l-84.4,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M509.7,568.9l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M594,568.9l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M678.5,568.9l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M762.8,568.9l84.2,0l0,0.9l-84.2,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M172.2,650.5l-0.3,0.4l-83.9,0l0,-0.4L88,650l83.9,0l0.3,0.5Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,650.5l0,0.4l-83.9,0l-0.4,-0.4l0.4,-0.5l83.9,0l0,0.5Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,650l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M341,650l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M425.3,650l84.4,0l0,0.9l-84.4,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M509.7,650l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M594,650l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M678.5,650l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M762.8,650l84.2,0l0,0.9l-84.2,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M172.2,715.4l-0.3,0.5l-83.9,0l0,-0.5L88,715l83.9,0l0.3,0.4Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,715.4l0,0.5l-83.9,0l-0.4,-0.5l0.4,-0.4l83.9,0l0,0.4Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,715l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M341,715l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M425.3,715l84.4,0l0,0.9l-84.4,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M509.7,715l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M594,715l84.5,0l0,0.9l-84.5,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M678.5,715l84.3,0l0,0.9l-84.3,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M762.8,715l84.2,0l0,0.9l-84.2,0l0,-0.9Z" class="g3_2" />
+<path fill-rule="evenodd" d="M172.2,769.8l0.4,0.5l-84.6,0l0,-0.5l0,-0.5l83.9,0l0.3,0.5Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,769.8l0,0.5l-84.6,0l0.3,-0.5l0.4,-0.5l83.9,0l0,0.5Z" class="g3_2" />
+<path fill-rule="evenodd" d="M256.5,769.3l84.5,0l0,1l-84.5,0l0,-1Z" class="g3_2" />
+<path fill-rule="evenodd" d="M341,769.3l84.3,0l0,1l-84.3,0l0,-1Z" class="g3_2" />
+<path fill-rule="evenodd" d="M425.3,769.3l84.4,0l0,1l-84.4,0l0,-1Z" class="g3_2" />
+<path fill-rule="evenodd" d="M509.7,769.3l84.3,0l0,1l-84.3,0l0,-1Z" class="g3_2" />
+<path fill-rule="evenodd" d="M594,769.3l84.5,0l0,1l-84.5,0l0,-1Z" class="g3_2" />
+<path fill-rule="evenodd" d="M678.5,769.3l84.3,0l0,1l-84.3,0l0,-1Z" class="g3_2" />
+<path fill-rule="evenodd" d="M762.8,769.3l84.2,0l0,1l-84.2,0l0,-1Z" class="g3_2" />
+<path fill-rule="evenodd" d="M172.2,110.6l0.4,0.4l0,51.5l-0.4,0.5l-0.3,-0.5l0,-51.5l0.3,-0.4Z" class="g2_2" />
+<path fill-rule="evenodd" d="M172.2,163l0.4,0.4l0,21.3l-0.4,0.4l-0.3,-0.4l0,-21.3l0.3,-0.4Z" class="g2_2" />
+<path fill-rule="evenodd" d="M172.2,185.1l0.4,0.5l0,137.8l-0.4,0.4l-0.3,-0.4l0,-137.8l0.3,-0.5Z" class="g2_2" />
+<path fill-rule="evenodd" d="M172.2,323.8l0.4,0.5l0,93.5l-0.4,0.5l-0.3,-0.5l0,-93.5l0.3,-0.5Z" class="g2_2" />
+<path fill-rule="evenodd" d="M172.2,418.3l0.4,0.4l0,87l-0.4,0.4l-0.3,-0.4l0,-87l0.3,-0.4Z" class="g2_2" />
+<path fill-rule="evenodd" d="M172.2,506.1l0.4,0.5l0,62.3l-0.4,0.5l-0.3,-0.5l0,-62.3l0.3,-0.5Z" class="g2_2" />
+<path fill-rule="evenodd" d="M172.2,569.4l0.4,0.4l0,80.2l-0.4,0.5L171.9,650l0,-80.2l0.3,-0.4Z" class="g2_2" />
+<path fill-rule="evenodd" d="M172.2,650.5l0.4,0.4l0,64.1l-0.4,0.4L171.9,715l0,-64.1l0.3,-0.4Z" class="g2_2" />
+<path fill-rule="evenodd" d="M172.2,715.4l0.4,0.5l0,53.4l-0.4,0.5l-0.3,-0.5l0,-53.4l0.3,-0.5Z" class="g2_2" />
+<text 
+x="107" 
+y="133" 
+dx="0,0,-0.1,0,0,0" 
+class="s1_2"
+>School</text>
+
+<text 
+x="110" 
+y="147" 
+dx="0,0,0,0" 
+class="s1_2"
+>Name</text>
+
+<text 
+x="175" 
+y="122" 
+dx="0,0.1,-0.1,0.1,-0.1,0,0,0,-0.1" 
+class="s2_2"
+>Missouri </text>
+
+<text 
+x="175" 
+y="135" 
+dx="0,0,0.1,-0.1,-0.1,0,0.2,-0.1,-0.1,0.1,-0.1,0.1,-0.1,0" 
+class="s2_2"
+>University of </text>
+
+<text 
+x="175" 
+y="147" 
+dx="0,0.1,-0.1,-0.1,0.1,0,-0.1,0.1,0,0,0,0.1" 
+class="s2_2"
+>Science and </text>
+
+<text 
+x="175" 
+y="159" 
+dx="0,-1.8,0,0.1,0,0,0,-0.1,0,0.1" 
+class="s2_2"
+>Technology</text>
+
+<text 
+x="260" 
+y="122" 
+dx="0,0,0,0.1,-0.1,0,0,-0.1,0.1,-0.1,0.1,0,0,0" 
+class="s2_2"
+>University of </text>
+
+<text 
+x="260" 
+y="135" 
+dx="0,-0.5,-0.3,0,-0.1,-0.1,0.2,0,0" 
+class="s2_2"
+>Wroclaw, </text>
+
+<text 
+x="260" 
+y="147" 
+dx="0,-0.5,0,-0.1,0.2,0" 
+class="s2_2"
+>Poland</text>
+
+<text 
+x="344" 
+y="122" 
+dx="0,0,0,-0.1,0,0,-0.1,0.1" 
+class="s2_2"
+>Cornell </text>
+
+<text 
+x="344" 
+y="135" 
+dx="0,0,0.1,-0.1,-0.1,0,0.2,-0.1,-0.1,0.1,-0.1,0.1" 
+class="s2_2"
+>University, </text>
+
+<text 
+x="344" 
+y="147" 
+dx="0,0,0.2" 
+class="s2_2"
+>USA</text>
+
+<text 
+x="428" 
+y="122" 
+dx="0,0.1,-0.1,-0.1,0,0.1,-0.1,0,0.1" 
+class="s2_2"
+>Istanbul </text>
+
+<text 
+x="428" 
+y="135" 
+dx="0,-1.8,0,-0.1,0,0.1,-0.1,-0.1,0.2,-0.1" 
+class="s2_2"
+>Technical </text>
+
+<text 
+x="428" 
+y="147" 
+dx="0,0,0,0.1,-0.1,0,0,-0.1,0.1,-0.1,0.1,0" 
+class="s2_2"
+>University, </text>
+
+<text 
+x="428" 
+y="159" 
+dx="0,-1.6,0,0,-0.4,0" 
+class="s2_2"
+>Turkey</text>
+
+<text 
+x="513" 
+y="122" 
+dx="0,0,0.1,-0.1,-0.1,0,0.2,-0.1,-0.1,0.1,-0.1,0.1,-0.1,0" 
+class="s2_2"
+>University of </text>
+
+<text 
+x="513" 
+y="135" 
+dx="0,-0.6,0,-0.1,0,0,-0.1,0,0,0.1" 
+class="s2_2"
+>Waterloo, </text>
+
+<text 
+x="513" 
+y="147" 
+dx="0,0,0,0,0,-0.1" 
+class="s2_2"
+>Canada</text>
+
+<text 
+x="597" 
+y="122" 
+dx="0,-0.5,-0.1,0,0,-0.1,0,0.1" 
+class="s2_2"
+>Ryerson </text>
+
+<text 
+x="597" 
+y="135" 
+dx="0,0,0,0.1,-0.1,0,0,-0.1,0.1,-0.1,0.1,0" 
+class="s2_2"
+>University, </text>
+
+<text 
+x="597" 
+y="147" 
+dx="0,0,0,0,0,-0.1" 
+class="s2_2"
+>Canada</text>
+
+<text 
+x="681" 
+y="122" 
+dx="0,-0.1,0,0.1,0,0.1,0,-0.1,0,0.1,-0.1,-0.1,0,-0.1" 
+class="s2_2"
+>San Jose State</text>
+
+<text 
+x="681" 
+y="135" 
+dx="0,0,0.1,-0.1,-0.1,0,0.2,-0.1,-0.1,0.1,-0.1,0.1" 
+class="s2_2"
+>University, </text>
+
+<text 
+x="681" 
+y="147" 
+dx="0,0,0.2" 
+class="s2_2"
+>USA</text>
+
+<text 
+x="766" 
+y="122" 
+dx="0,0.1,0,-0.1,-0.1,0,0.1" 
+class="s2_2"
+>Indian </text>
+
+<text 
+x="766" 
+y="135" 
+dx="0,0.1,0,-0.1,0.1,-0.1,-0.1,0.1,-0.1,0,0.1,-0.1,0" 
+class="s2_2"
+>Institute of </text>
+
+<text 
+x="766" 
+y="147" 
+dx="0,-1.8,0,-0.1,0,0,0.2,-0.1,0,-0.1,0.1,0" 
+class="s2_2"
+>Technology, </text>
+
+<text 
+x="766" 
+y="159" 
+dx="0,-0.1,0,-0.1,0,0" 
+class="s2_2"
+>Madras</text>
+
+<text 
+x="101" 
+y="171" 
+dx="0,0,0.1,0,-0.1,0.1,0,-0.2,0.1,0,0.1" 
+class="s3_2"
+>Final Score</text>
+
+<text 
+x="113" 
+y="182" 
+dx="0,-0.1,0,-0.1,0,0" 
+class="s3_2"
+>(Rank)</text>
+
+<text 
+x="185" 
+y="178" 
+dx="0,0,0,0,-0.1,0" 
+class="s4_2"
+>403.4 </text>
+
+<text 
+x="224" 
+y="178" 
+dx="0,-0.1,0" 
+class="s1_2"
+>(1)</text>
+
+<text 
+x="270" 
+y="178" 
+dx="0,0,0,0,-0.1,0,-0.1,0,0" 
+class="s4_2"
+>336.3 (2)</text>
+
+<text 
+x="351" 
+y="178" 
+dx="0,0,0,0,-0.1,0,-0.1,0,0,0" 
+class="s4_2"
+>264.1 (11)</text>
+
+<text 
+x="435" 
+y="178" 
+dx="0,0,0,0,-0.1,0,-0.1,0,0,0" 
+class="s4_2"
+>243.1 (13)</text>
+
+<text 
+x="520" 
+y="178" 
+dx="0,0,0,0,-0.1,0,-0.1,0,0,0" 
+class="s4_2"
+>225.7 (15)</text>
+
+<text 
+x="604" 
+y="178" 
+dx="0,0,0,0,-0.1,0,0.1,0,0,0" 
+class="s4_2"
+>190.9 (21)</text>
+
+<text 
+x="688" 
+y="178" 
+dx="0,0,0,0,-0.1,0,-0.1,0,0,0" 
+class="s4_2"
+>164.3 (26)</text>
+
+<text 
+x="773" 
+y="178" 
+dx="0,0,0,0,-0.1,0,0.1,0,0,0" 
+class="s4_2"
+>151.4 (29)</text>
+
+<text 
+x="100" 
+y="227" 
+dx="0,0,-0.1,0.1,0,-0.1,0,0" 
+class="s1_2"
+>Wireless</text>
+
+<text 
+x="93" 
+y="242" 
+dx="0,-0.1,0,0.1,-0.1,0,0,0,0,0" 
+class="s1_2"
+>radios and</text>
+
+<text 
+x="98" 
+y="256" 
+dx="0,0,0,0,0,0,0,0" 
+class="s1_2"
+>antennas</text>
+
+<image preserveAspectRatio="none" x="114" y="259" width="33" height="33" xlink:href="2/img/1.png" />
+<text 
+x="175" 
+y="195" 
+dx="0,0,0.1,-0.1,0.1,0,-0.1,0.1,-0.1" 
+class="s2_2"
+>Ubiquiti </text>
+
+<text 
+x="175" 
+y="207" 
+dx="0,0.1,-0.1,0.1,-0.1,0.1,0,0" 
+class="s2_2"
+>900MHz, </text>
+
+<text 
+x="175" 
+y="220" 
+dx="0,0,-0.1,0,-0.1,0,0.2,-0.1,0,0,0" 
+class="s2_2"
+>Cloverleaf </text>
+
+<text 
+x="175" 
+y="232" 
+dx="0,-0.1,0.1,-0.1,0.1" 
+class="s2_2"
+>MIMO </text>
+
+<text 
+x="175" 
+y="245" 
+dx="0,0,0,0.1,0,0,0,0.2,0,0,0" 
+class="s2_2"
+>antenna on </text>
+
+<text 
+x="175" 
+y="257" 
+dx="0,-0.3,0,-0.1,0,0.2,0,0,0,0.1" 
+class="s2_2"
+>rover and </text>
+
+<text 
+x="175" 
+y="270" 
+dx="0,0.1,0,0,-0.1,0.1,-0.1,0,-0.1,0,0,-0.1,0.1,-0.1" 
+class="s2_2"
+>dual polarity </text>
+
+<text 
+x="175" 
+y="282" 
+dx="0,-0.1,0.2,-0.1,-0.1,0.1,0,-0.1,0,-0.1,0.2,-0.1,0" 
+class="s2_2"
+>yagi at base </text>
+
+<text 
+x="175" 
+y="294" 
+dx="0,0.1,-0.1,0,-0.1,-0.1,0.2" 
+class="s2_2"
+>station</text>
+
+<text 
+x="260" 
+y="195" 
+dx="0,0,-0.1,0.1,-0.1,0.1,-0.1,-0.1,0.1,0,0,0,0.1,-0.1,0" 
+class="s2_2"
+>Ubiquiti Bullet</text>
+
+<text 
+x="344" 
+y="193" 
+dx="0,0,-0.1,0.1,0,0.1,-0.1,0.1,-0.1,0.1,0,0.1,0" 
+class="s5_2"
+>Base station </text>
+
+<text 
+x="344" 
+y="202" 
+dx="0,0,-0.1,0.1,0,0,0,0,-0.1,0,-0.1,0.1,0.1,-0.1,0,0" 
+class="s5_2"
+>antenna was the </text>
+
+<text 
+x="344" 
+y="212" 
+dx="0,0,0,0,0,0,0,0.1,0.1,-0.1,0.1,-0.1,0,-0.2,0.1,0,0" 
+class="s5_2"
+>Ubiquiti AM-2G15-</text>
+
+<text 
+x="344" 
+y="222" 
+dx="0,0,0,0,0.1,-0.1,-0.2,0.1,0.1,-0.1,0.1" 
+class="s5_2"
+>120, rover </text>
+
+<text 
+x="344" 
+y="232" 
+dx="0,0,-0.1,0.1,0,0,0,0,-0.1,0,-0.1,0.1,0.1,-0.1,0,0" 
+class="s5_2"
+>antenna was the </text>
+
+<text 
+x="344" 
+y="242" 
+dx="0,0,0,0,-0.1,0.1,0.1,-0.3,0.1,0,-0.1,0.1" 
+class="s5_2"
+>Super Power </text>
+
+<text 
+x="344" 
+y="251" 
+dx="0,0,0,0,0,0,0.1" 
+class="s5_2"
+>Supply </text>
+
+<text 
+x="344" 
+y="261" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s5_2"
+>B00O7ZEK7S, </text>
+
+<text 
+x="344" 
+y="271" 
+dx="0,-0.2,0.1,0.1,-0.1,0.1,0.1,-0.1,0,0,0.1,-0.1,0,0.1,0" 
+class="s5_2"
+>rover and base </text>
+
+<text 
+x="344" 
+y="281" 
+dx="0,0.1,-0.1,0,0,0.1,0,0,0,-0.1,0,0.1,-0.1,0,0,0.1" 
+class="s5_2"
+>transceiver was </text>
+
+<text 
+x="344" 
+y="290" 
+dx="0,0.1,0,0,-0.1,0,0,0,0,0,0,0.1,0" 
+class="s5_2"
+>the Ubiquiti </text>
+
+<text 
+x="344" 
+y="300" 
+dx="0,-0.3,0.1,0,-0.3,-0.1,0.1,0.1,-0.1" 
+class="s5_2"
+>Rocket M2</text>
+
+<text 
+x="428" 
+y="192" 
+dx="0,0,0,-0.1,-0.2,0.1,0,-0.1,-0.1,0" 
+class="s6_2"
+>Microhard </text>
+
+<text 
+x="428" 
+y="201" 
+dx="0,-0.1,0.1,-0.1,0,0,0,0,0,0,-0.1,-0.1,0,0,0" 
+class="s6_2"
+>pDDL2450 could </text>
+
+<text 
+x="428" 
+y="210" 
+dx="0,0.1,-0.1,0,-0.1,0,0.1,0,0,-0.1,0,0,0,-0.1,0" 
+class="s6_2"
+>achieve 1km in </text>
+
+<text 
+x="428" 
+y="219" 
+dx="0,-0.1,0.1,0,0,0,-0.1,0,0,0,-0.1,0.1,0,0,0,-0.1,0,0.1" 
+class="s6_2"
+>non-line of sight </text>
+
+<text 
+x="428" 
+y="228" 
+dx="0,0,-0.1,0.1,0,0,0,0,0,0,0" 
+class="s6_2"
+>with 5 dBi </text>
+
+<text 
+x="428" 
+y="237" 
+dx="0,-0.1,0,0,-0.1,0,0,-0.2,0,-0.1,0.1,0,0.1,-0.1,0.1,0" 
+class="s6_2"
+>omnidirectional </text>
+
+<text 
+x="428" 
+y="246" 
+dx="0,-0.1,0,-0.1,0,0,-0.1,0.1,0,0,0,-0.4,0,0,-0.1,0,0,0.1" 
+class="s6_2"
+>antennas. We also </text>
+
+<text 
+x="428" 
+y="255" 
+dx="0,-0.1,0.1,-0.1,-0.3,0,0,0,0,0,0,-0.1,-0.1,0,0,0" 
+class="s6_2"
+>backed up comms </text>
+
+<text 
+x="428" 
+y="263" 
+dx="0,-0.3,-0.1,-0.1,0,0,0.1,0,-0.1,0,0,0,-0.1,0.1,-0.1,0,0.1,0.1" 
+class="s6_2"
+>except the cameras</text>
+
+<text 
+x="428" 
+y="272" 
+dx="0,-0.1,0,0,0,-0.1,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s6_2"
+>and the TCP link via</text>
+
+<text 
+x="428" 
+y="281" 
+dx="0,-0.1,0,0,0,0,0,-0.1,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s6_2"
+>a RF link with 433 </text>
+
+<text 
+x="428" 
+y="290" 
+dx="0,0,0.1,0,0,-0.3,0.1,-0.1,0.1,0,-0.1,0.1,-0.1,0,0,0,0" 
+class="s6_2"
+>MHz LoRa module. </text>
+
+<text 
+x="513" 
+y="195" 
+dx="0,0.1,0,0.1,0,0,-0.1,0,0.1,0,0,-0.1" 
+class="s2_2"
+>2.4 GHz and </text>
+
+<text 
+x="513" 
+y="207" 
+dx="0,0.1,-0.1,0.1,0,-0.1,0.1,0" 
+class="s2_2"
+>900 MHz </text>
+
+<text 
+x="513" 
+y="220" 
+dx="0,0,0,0.1,0,0,0,0.2" 
+class="s2_2"
+>antennas</text>
+
+<text 
+x="597" 
+y="195" 
+dx="0,0,-0.1,-0.1,-0.1,0.1,-0.1,-0.1,0.2,0,-0.1,0.1" 
+class="s7_2"
+>Ubiquiti M2 </text>
+
+<text 
+x="597" 
+y="207" 
+dx="0,-0.1,0,-0.1,0.1,0,-0.1,0.1" 
+class="s7_2"
+>Rockets </text>
+
+<text 
+x="597" 
+y="220" 
+dx="0,0.1,-0.2,0.1,0,0.1,0" 
+class="s7_2"
+>2.4GHz </text>
+
+<text 
+x="597" 
+y="232" 
+dx="0,-0.1,0.1,0.1,-0.2,0.1,0.1,0,0,-0.1,0.1,-0.1" 
+class="s7_2"
+>802.11n MIMO</text>
+
+<text 
+x="597" 
+y="245" 
+dx="0,-0.1,0,-0.1,0,0,0.1,0,0,-0.1,-0.1,0.1" 
+class="s7_2"
+>paired with </text>
+
+<text 
+x="597" 
+y="257" 
+dx="0,0,0,0,0,-0.1,0,0.1" 
+class="s7_2"
+>TP-Link </text>
+
+<text 
+x="597" 
+y="270" 
+dx="0,-0.1,0.1,-0.1,0.1,0,0" 
+class="s7_2"
+>2408CL </text>
+
+<text 
+x="597" 
+y="281" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s8_2"
+>omnidirectional</text>
+
+<text 
+x="597" 
+y="294" 
+dx="0,0,0,-0.1,0,0,0,0" 
+class="s7_2"
+>antennas</text>
+
+<text 
+x="681" 
+y="195" 
+dx="0,0,0.1,-0.1,0.1,0,-0.1,0.1,-0.1" 
+class="s2_2"
+>Ubiquiti </text>
+
+<text 
+x="681" 
+y="207" 
+dx="0,-0.5,0.2,-0.1,-0.4,0,0.1,-0.1,0,-0.1,0.1,-0.1" 
+class="s2_2"
+>Rockets M900</text>
+
+<text 
+x="681" 
+y="220" 
+dx="0,0,0,0.1,0,-0.1,0.1,0" 
+class="s2_2"
+>and the </text>
+
+<text 
+x="681" 
+y="232" 
+dx="0,0.1,-0.1,-0.3,0,0.1,-0.1,-0.1,0,0,0.2,-0.1" 
+class="s2_2"
+>directional </text>
+
+<text 
+x="681" 
+y="245" 
+dx="0,0,0.1,-0.1,0.1,0,-0.1,0.1,-0.1,0.1,-0.3,0,-0.1,0.2" 
+class="s2_2"
+>Ubiquiti Loco </text>
+
+<text 
+x="681" 
+y="257" 
+dx="0,-0.1,0.1,-0.1" 
+class="s2_2"
+>M900</text>
+
+<text 
+x="766" 
+y="195" 
+dx="0,-0.1,-0.2,0,0,0.1,0,0.1,0,-0.6,0" 
+class="s2_2"
+>TP-Link WA </text>
+
+<text 
+x="766" 
+y="207" 
+dx="0,-0.1,0.1,-0.1,0.1,0,0.1,-0.2,0.1,0,0.1,0" 
+class="s2_2"
+>5210 2.4GHz </text>
+
+<text 
+x="766" 
+y="220" 
+dx="0,0,-0.1,0.1,0,0,0.1,0,0.1,-0.1,0,-0.1,0.1,-0.1" 
+class="s2_2"
+>with included </text>
+
+<text 
+x="766" 
+y="232" 
+dx="0,-0.1,-0.1,-0.3,0.1,-0.1,0.1,-0.1,0,0,0,0.1" 
+class="s2_2"
+>directional </text>
+
+<text 
+x="766" 
+y="245" 
+dx="0,0,0,-0.1,0,0.1,0" 
+class="s2_2"
+>antenna</text>
+
+<text 
+x="104" 
+y="351" 
+dx="0,0,0,0,0,0,0.1" 
+class="s1_2"
+>Battery</text>
+
+<text 
+x="104" 
+y="365" 
+dx="0,0,0,0,0,0" 
+class="s1_2"
+>System</text>
+
+<image preserveAspectRatio="none" x="112" y="368" width="37" height="33" xlink:href="2/img/2.png" />
+<text 
+x="175" 
+y="331" 
+dx="0,0.1,0.1,-0.1,0,-0.1,0.1,0,0,0,0,0,-0.1" 
+class="s5_2"
+>LGChem18650HE</text>
+
+<text 
+x="175" 
+y="342" 
+dx="0" 
+class="s5_2"
+>4</text>
+
+<text 
+x="183" 
+y="342" 
+dx="0,-0.1,0,0.1,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s9_2"
+>Lithium Ion, 80</text>
+
+<text 
+x="175" 
+y="353" 
+dx="0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s9_2"
+>set up in custom</text>
+
+<text 
+x="175" 
+y="363" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0" 
+class="s9_2"
+>pack, 10 set in </text>
+
+<text 
+x="175" 
+y="374" 
+dx="0,0,0,0,-0.1,0,0,-0.1,0,0.1,-0.2,0,0.1,0,0,0,0,0" 
+class="s9_2"
+>parallel with 8 of</text>
+
+<text 
+x="175" 
+y="385" 
+dx="0,0.1,0,0,0,0,0,0,-0.1,0.1,0.1,0,-0.1,0" 
+class="s9_2"
+>those sets in </text>
+
+<text 
+x="175" 
+y="395" 
+dx="0,0,0,0,0,0" 
+class="s9_2"
+>series</text>
+
+<text 
+x="260" 
+y="334" 
+dx="0,0,0,-0.1,-0.1,0,0.1,0,0,-0.1,-0.3,0" 
+class="s2_2"
+>Custom LiPo </text>
+
+<text 
+x="260" 
+y="346" 
+dx="0,0,0,-0.1,0,0.1,0" 
+class="s2_2"
+>modules</text>
+
+<text 
+x="344" 
+y="334" 
+dx="0,0.1,-0.1,0,-0.1,0.2,-0.1,0,0,0.1,-0.1" 
+class="s2_2"
+>1x MaxAmps </text>
+
+<text 
+x="344" 
+y="346" 
+dx="0,0.1,-0.1,0,0,0.1,0,0" 
+class="s2_2"
+>7S LIPO </text>
+
+<text 
+x="344" 
+y="358" 
+dx="0,0,0,0.1,-0.1,0,0" 
+class="s2_2"
+>Battery</text>
+
+<text 
+x="428" 
+y="334" 
+dx="0,-1.8,0,-0.1,0.1,0,0,0.1,0,-0.1,0.1,-0.1,-0.1" 
+class="s2_2"
+>Tattu 6 cell </text>
+
+<text 
+x="428" 
+y="346" 
+dx="0,0,-0.1,-0.3,0,0,0.1,-0.1,0,0" 
+class="s2_2"
+>LiPo 22Ah </text>
+
+<text 
+x="513" 
+y="334" 
+dx="0,0.1,-0.1,0,0,0,-0.1,-0.1,0.1,0.1,-0.1,0,-0.1,0,-0.1" 
+class="s7_2"
+>1x Tattu 6 cell</text>
+
+<text 
+x="513" 
+y="346" 
+dx="0,0.1,-0.1,0,0.1,0,-0.1,0,-0.1,-0.1,0.2" 
+class="s7_2"
+>22Ah Tattu </text>
+
+<text 
+x="513" 
+y="358" 
+dx="0,0,-0.1,0" 
+class="s7_2"
+>LiPo</text>
+
+<text 
+x="597" 
+y="330" 
+dx="0,0,-0.1,0.1,0.1,-0.1,-0.1,0.1,-0.1" 
+class="s10_2"
+>Panasonic</text>
+
+<text 
+x="597" 
+y="340" 
+dx="0,0,-0.1,0,-0.1,-0.1,0.1,-0.1,-0.1,-0.1" 
+class="s11_2"
+>NCR18650BD</text>
+
+<text 
+x="641" 
+y="340" 
+dx="0,0,0,0,0" 
+class="s12_2"
+>3.7V </text>
+
+<text 
+x="597" 
+y="351" 
+dx="0,0,0,0,0,-0.1,0,0.1,0,-0.1,0,0.1,-0.1,0,0" 
+class="s12_2"
+>3200mAh Li-Ion </text>
+
+<text 
+x="597" 
+y="362" 
+dx="0,0,0,0,-0.1,0.1,0.1,-0.1,0,0,0,0,0,0,0" 
+class="s12_2"
+>4 batteries in </text>
+
+<text 
+x="597" 
+y="372" 
+dx="0,0,0,-0.1,0,0,0,0.1,-0.1,0" 
+class="s12_2"
+>series to </text>
+
+<text 
+x="597" 
+y="383" 
+dx="0,0,0,-0.1,0,0,0.1,0,0,0,0,0,0,0" 
+class="s12_2"
+>achieve 14.8V </text>
+
+<text 
+x="597" 
+y="394" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0" 
+class="s12_2"
+>and 6 in parallel </text>
+
+<text 
+x="597" 
+y="404" 
+dx="0,-0.1,0,0,0,0,0,-0.1,0,0.1,0,0,0" 
+class="s12_2"
+>to achieve a </text>
+
+<text 
+x="597" 
+y="415" 
+dx="0,0,0,0,0,0" 
+class="s12_2"
+>19.2Ah</text>
+
+<text 
+x="681" 
+y="334" 
+dx="0,0.1,-0.1,0,0,0.1,-0.1,0.1,-0.1,0,0,-0.1,-0.3,0" 
+class="s2_2"
+>3x Zippy LiPos</text>
+
+<text 
+x="681" 
+y="346" 
+dx="0,0.1,-0.1,0,0.1,-0.1,-0.1,0.1,0,0" 
+class="s2_2"
+>7S with a </text>
+
+<text 
+x="681" 
+y="358" 
+dx="0,-0.1,0,0,0,0.2,0,-0.1,0,0,-0.1,-0.1" 
+class="s2_2"
+>power board </text>
+
+<text 
+x="681" 
+y="371" 
+dx="0,0,0.1,0,-0.1,0,0.1,-0.1,0.1,0,0" 
+class="s2_2"
+>we designed</text>
+
+<text 
+x="766" 
+y="333" 
+dx="0,0,0.1,-0.1,0,0.1,-0.1,0,0,0,-0.3,0" 
+class="s13_2"
+>3x 24V LiPo </text>
+
+<text 
+x="766" 
+y="344" 
+dx="0,0,0,-0.1,-0.1,0,0,0,0,0.2,-0.1,0,0,0" 
+class="s13_2"
+>batteries for </text>
+
+<text 
+x="766" 
+y="356" 
+dx="0,0,0,0,-0.1,0,0" 
+class="s13_2"
+>drive, </text>
+
+<text 
+x="766" 
+y="367" 
+dx="0,0,0.1,-0.1,0,0.1,-0.1,0,0,0,-0.3,0" 
+class="s13_2"
+>2x 12V LiPo </text>
+
+<text 
+x="766" 
+y="379" 
+dx="0,0,0,-0.1,-0.1,0,0,0,0,0.2,-0.1,0,0,0" 
+class="s13_2"
+>batteries for </text>
+
+<text 
+x="766" 
+y="391" 
+dx="0,0,0,0,0,0,0,-0.1,-0.1" 
+class="s13_2"
+>auger/arm</text>
+
+<text 
+x="112" 
+y="432" 
+dx="0,0,0,0.1,-0.1" 
+class="s14_2"
+>Wired</text>
+
+<text 
+x="93" 
+y="443" 
+dx="0,0,0,0.1,-0.1,0,0,-0.1,0.1,-0.1,0,0.1" 
+class="s3_2"
+>Communicatio</text>
+
+<text 
+x="126" 
+y="454" 
+dx="0,0" 
+class="s3_2"
+>n </text>
+
+<text 
+x="101" 
+y="466" 
+dx="0,0,0.1,0,-0.1,0.1,-0.1,0,0" 
+class="s14_2"
+>Protocols</text>
+
+<image preserveAspectRatio="none" x="112" y="469" width="37" height="33" xlink:href="2/img/3.png" />
+<text 
+x="175" 
+y="428" 
+dx="0,0.1,-0.1,0,0.1,0,0.1,-0.2,0.1,-0.1,0.1,0.1" 
+class="s2_2"
+>I2C, RS232, </text>
+
+<text 
+x="175" 
+y="440" 
+dx="0,-0.5,0.2,-0.1,0,0,0,0,0" 
+class="s2_2"
+>RoveComm </text>
+
+<text 
+x="175" 
+y="453" 
+dx="0,0,0,0.1,-0.1,-0.1,0,0.1,0,0,0,0" 
+class="s2_2"
+>(Custom UDP)</text>
+
+<text 
+x="260" 
+y="426" 
+dx="0,0,0,0,0,0,0,-0.1,0,-0.1,0.1,0,0,-0.1,0" 
+class="s9_2"
+>CAN built-into </text>
+
+<text 
+x="260" 
+y="437" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s9_2"
+>the bananapi </text>
+
+<text 
+x="260" 
+y="448" 
+dx="0,0,-0.1,0.1,0,0,0.1,-0.2,0" 
+class="s9_2"
+>with two </text>
+
+<text 
+x="260" 
+y="459" 
+dx="0,0,-0.1,0.1,0,0,-0.1,0,0,0.1,0,0,0,0" 
+class="s9_2"
+>networks, one </text>
+
+<text 
+x="260" 
+y="469" 
+dx="0,0,-0.1,0,0,0,0,-0.1,0.1,0,0,0" 
+class="s9_2"
+>for driving </text>
+
+<text 
+x="260" 
+y="480" 
+dx="0,0,0,0,-0.1,0,0,0.1,0,0,-0.1,0,0.1,0,-0.1,0" 
+class="s9_2"
+>wheels, another </text>
+
+<text 
+x="260" 
+y="491" 
+dx="0,0,-0.1,0,0,0.1,0,0" 
+class="s9_2"
+>for the </text>
+
+<text 
+x="260" 
+y="501" 
+dx="0,-0.1,0,0,0,0,-0.1,0,0,-0.1,0" 
+class="s9_2"
+>manipulator</text>
+
+<text 
+x="344" 
+y="428" 
+dx="0,0,0,-0.1,0.1,-0.1,0,0.1,0,0,-0.1,0" 
+class="s2_2"
+>CAN bus for </text>
+
+<text 
+x="344" 
+y="440" 
+dx="0,0.1,0,-0.1,0,0,-0.1,0,0,-0.1,-0.1,0.1" 
+class="s2_2"
+>interboard, </text>
+
+<text 
+x="344" 
+y="453" 
+dx="0,0,0,-0.7,0,0,0,-0.1,0,0.1,0.1,0,-0.1,0,-0.1" 
+class="s2_2"
+>UART for Intel </text>
+
+<text 
+x="344" 
+y="465" 
+dx="0,-0.1,0,0.2,0,-0.1,0" 
+class="s2_2"
+>NUC to </text>
+
+<text 
+x="344" 
+y="478" 
+dx="0,0,0.1,-0.1,-0.3,0,-0.1,0.2,0,-0.1,-0.3,0.2,-0.1,-0.1" 
+class="s2_2"
+>microcontrolle</text>
+
+<text 
+x="344" 
+y="490" 
+dx="0,0" 
+class="s2_2"
+>rs</text>
+
+<text 
+x="428" 
+y="428" 
+dx="0,-0.1,0.1,0,0,0,-0.1,0" 
+class="s2_2"
+>I2C for </text>
+
+<text 
+x="428" 
+y="440" 
+dx="0,-0.1,0,0.1,-0.1,0,0,-0.1,0.1,0,0,-0.1,0" 
+class="s2_2"
+>sensors, USB </text>
+
+<text 
+x="428" 
+y="453" 
+dx="0,-0.1,0,0,0,-0.2,0,0.1,-0.1,-0.1,0,-0.1,0,-0.1" 
+class="s2_2"
+>for Raspberry </text>
+
+<text 
+x="428" 
+y="465" 
+dx="0,-0.2,-0.1,0,-0.1,0" 
+class="s2_2"
+>Pi to </text>
+
+<text 
+x="428" 
+y="478" 
+dx="0,0,-0.1,0.1,-0.3,0,-0.1,0,0.1,-0.1,-0.3,0,-0.1,0.1" 
+class="s2_2"
+>microcontrolle</text>
+
+<text 
+x="428" 
+y="490" 
+dx="0,0" 
+class="s2_2"
+>rs</text>
+
+<text 
+x="513" 
+y="428" 
+dx="0,0,0,-0.1,0.1,-0.1,0,0,0,0,0,0.1,-0.1" 
+class="s2_2"
+>CAN for most </text>
+
+<text 
+x="513" 
+y="440" 
+dx="0,0.1,0,-0.1,0.1,-0.1,-0.1,0.1,0,0,-0.1,0.1" 
+class="s2_2"
+>things, USB </text>
+
+<text 
+x="513" 
+y="453" 
+dx="0,0,0,0,0,-0.1,0,-0.1,-0.1,0.1" 
+class="s2_2"
+>for drive </text>
+
+<text 
+x="513" 
+y="465" 
+dx="0,0,0,-0.1,0,0" 
+class="s2_2"
+>motor </text>
+
+<text 
+x="513" 
+y="478" 
+dx="0,-0.1,0,0.1,-0.1,-0.3,0,0.1,-0.1,0,0,0" 
+class="s2_2"
+>controller, </text>
+
+<text 
+x="513" 
+y="490" 
+dx="0,0.1,-0.1,0,0.1,-0.1,0,0.1,0.1,-0.1,0,0" 
+class="s2_2"
+>I2C/SPI for </text>
+
+<text 
+x="513" 
+y="503" 
+dx="0,-0.1,0.1,0,-0.1,0,0" 
+class="s2_2"
+>sensors</text>
+
+<text 
+x="597" 
+y="426" 
+dx="0,0,0,0,0,0,0,0,0,-0.1,0,0,0.1,0,0,0" 
+class="s12_2"
+>I2C sensors, USB</text>
+
+<text 
+x="597" 
+y="437" 
+dx="0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s12_2"
+>for cameras, </text>
+
+<text 
+x="597" 
+y="448" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s12_2"
+>USB serial for </text>
+
+<text 
+x="597" 
+y="459" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0.1" 
+class="s12_2"
+>Arduinos, UART </text>
+
+<text 
+x="597" 
+y="469" 
+dx="0,0,-0.1,0,0,-0.1,0,0,0.1,0,0,0,0.2,0,-0.2,0" 
+class="s12_2"
+>for GPS, PWM for</text>
+
+<text 
+x="597" 
+y="480" 
+dx="0,-0.1,-0.1,0.1,0,0" 
+class="s12_2"
+>motor </text>
+
+<text 
+x="597" 
+y="491" 
+dx="0,0,0,-0.1,0.1,-0.1,0,0,0,-0.1,0" 
+class="s12_2"
+>controllers</text>
+
+<text 
+x="681" 
+y="428" 
+dx="0,0.1,-0.1,0,0.1,0,0,0,-0.9,0,0.1" 
+class="s2_2"
+>I2C, UART, </text>
+
+<text 
+x="681" 
+y="440" 
+dx="0,0,0.1,0,0,-0.1,0,0,-0.1,0.1" 
+class="s2_2"
+>Bluetooth </text>
+
+<text 
+x="681" 
+y="453" 
+dx="0,0,0.1,0,0,0,0.1,-0.1,0,0.1" 
+class="s2_2"
+>(RFCOMM), </text>
+
+<text 
+x="681" 
+y="465" 
+dx="0,-0.1,0,0.1,0.1,0,0,0.1,-0.1,0" 
+class="s2_2"
+>SPI, PWM, </text>
+
+<text 
+x="681" 
+y="478" 
+dx="0,0,0.1" 
+class="s2_2"
+>PPM</text>
+
+<text 
+x="766" 
+y="428" 
+dx="0,-0.1,0,0,-0.1,0,0.1,0,0,-0.3,0,0" 
+class="s2_2"
+>Serial from </text>
+
+<text 
+x="766" 
+y="440" 
+dx="0,-0.1,0,0.1,0,0,0,-0.1,0.1" 
+class="s2_2"
+>the main </text>
+
+<text 
+x="766" 
+y="453" 
+dx="0,-0.1,0,0,0.1,0,-0.1,0,0,0.1,-0.1,0" 
+class="s2_2"
+>computer to </text>
+
+<text 
+x="766" 
+y="465" 
+dx="0,-0.1,0,0.1,0,-0.1,0,0,-0.1,0,0.1,-0.1" 
+class="s2_2"
+>the various </text>
+
+<text 
+x="766" 
+y="478" 
+dx="0,-0.1,-0.1,0.1,0,-0.1,0,0.2" 
+class="s2_2"
+>Arduinos</text>
+
+<text 
+x="106" 
+y="518" 
+dx="0,0,0,0,0,0" 
+class="s1_2"
+>Sensor</text>
+
+<text 
+x="107" 
+y="532" 
+dx="0,-0.6,-0.1,0,-0.1,0" 
+class="s1_2"
+>Fusion</text>
+
+<image preserveAspectRatio="none" x="114" y="535" width="33" height="33" xlink:href="2/img/4.png" />
+<text 
+x="175" 
+y="516" 
+dx="0,-0.1,0,-0.1,0,0,0.1" 
+class="s2_2"
+>Kalman </text>
+
+<text 
+x="175" 
+y="528" 
+dx="0,0,0.1,-0.1,0,0,-0.1,0.1,-0.1,0,0,0.1,-0.1" 
+class="s2_2"
+>ﬁltering and </text>
+
+<text 
+x="175" 
+y="541" 
+dx="0,0.1,0,0.1,-0.1,0,0" 
+class="s2_2"
+>custom </text>
+
+<text 
+x="175" 
+y="553" 
+dx="0,0,0.1,-0.1,0,0,-0.1,0.1" 
+class="s2_2"
+>ﬁltering</text>
+
+<text 
+x="260" 
+y="516" 
+dx="0,-0.3,0,-0.1,0,-0.1" 
+class="s2_2"
+>robot_</text>
+
+<text 
+x="260" 
+y="528" 
+dx="0,-0.1,0,-0.1,0,0.1,-0.1,0,0,-0.1,-0.1,0" 
+class="s2_2"
+>localization</text>
+
+<text 
+x="344" 
+y="516" 
+dx="0,-0.3,0,-0.1,0.2,-0.1" 
+class="s2_2"
+>robot_</text>
+
+<text 
+x="344" 
+y="528" 
+dx="0,-0.1,0.2,-0.1,0,-0.1,-0.1,0,0,0.1,-0.1,0" 
+class="s2_2"
+>localization</text>
+
+<text 
+x="428" 
+y="514" 
+dx="0,-0.3,0,0,-0.1,0.1" 
+class="s9_2"
+>robot_</text>
+
+<text 
+x="428" 
+y="525" 
+dx="0,-0.1,0,0,0,-0.1,0,-0.1,0,0.1,-0.1,0,0,0.1" 
+class="s9_2"
+>localization, </text>
+
+<text 
+x="428" 
+y="536" 
+dx="0,0,0,0,-0.1,0,0.1,0,0,0,0.1" 
+class="s9_2"
+>custom EKF </text>
+
+<text 
+x="428" 
+y="547" 
+dx="0,0,0,0,-0.3,0,0,0,-0.1,0" 
+class="s9_2"
+>backup in </text>
+
+<text 
+x="428" 
+y="557" 
+dx="0,-0.1,0,0,-0.3,0,0,0,-0.1,0.1,-0.3,0,0,0,-0.1,0" 
+class="s9_2"
+>microcontrollers</text>
+
+<text 
+x="513" 
+y="516" 
+dx="0,-0.3,0,-0.1,0.2,-0.1" 
+class="s2_2"
+>robot_</text>
+
+<text 
+x="513" 
+y="528" 
+dx="0,-0.1,0.2,-0.1,0,-0.1,-0.1,0,0,0.1,-0.1,0" 
+class="s2_2"
+>localization</text>
+
+<text 
+x="597" 
+y="514" 
+dx="0,-0.3,0,0,-0.1,0.1" 
+class="s9_2"
+>robot_</text>
+
+<text 
+x="597" 
+y="525" 
+dx="0,-0.1,0,0,0,-0.1,0,-0.1,0,0.1,-0.1,0,0,0.1" 
+class="s9_2"
+>localization, </text>
+
+<text 
+x="597" 
+y="536" 
+dx="0,0,0,0,0,-0.2,0.1,0,0,0,0,0,0,0" 
+class="s9_2"
+>didn’t end up </text>
+
+<text 
+x="597" 
+y="547" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s9_2"
+>using due to IMU</text>
+
+<text 
+x="597" 
+y="557" 
+dx="0,0,0,0,0,0" 
+class="s9_2"
+>issues</text>
+
+<text 
+x="681" 
+y="516" 
+dx="0,-0.1,0,0" 
+class="s2_2"
+>None</text>
+
+<text 
+x="766" 
+y="516" 
+dx="0,-0.1,0,0" 
+class="s2_2"
+>None</text>
+
+<text 
+x="112" 
+y="593" 
+dx="0,-1.6,0,0" 
+class="s1_2"
+>Team</text>
+
+<text 
+x="96" 
+y="607" 
+dx="0,0,0,-0.1,0,0,0.1,0,0" 
+class="s1_2"
+>Strengths</text>
+
+<image preserveAspectRatio="none" x="114" y="610" width="31" height="28" xlink:href="2/img/5.png" />
+<text 
+x="175" 
+y="576" 
+dx="0,0,0.1,-0.1,0,0.1,0.1,-0.1,-0.1,0,0.1,0,-0.1,0" 
+class="s6_2"
+>Manufacturing </text>
+
+<text 
+x="175" 
+y="585" 
+dx="0,-0.1,0.1,0,0.1,0,-0.1,0,0,0.1,0,0,0,0,-0.1,0,0" 
+class="s6_2"
+>capabilities and </text>
+
+<text 
+x="175" 
+y="594" 
+dx="0,0.1,-0.1,-0.1,0,0,0.1,0,-0.1,0.1,0,0,-0.2,-0.1,0,0.1,-0.1,0,0" 
+class="s6_2"
+>access to programs </text>
+
+<text 
+x="175" 
+y="603" 
+dx="0,0.1,-0.1,0.1,0.1,0,-0.1,0,0,0.1,0,0,-0.1,0,0,0.1,-0.1" 
+class="s6_2"
+>that allow us to </text>
+
+<text 
+x="175" 
+y="612" 
+dx="0,0,-0.1,0.1,0,0,-0.1,0.1,-0.1,0.1,0,-0.1,0,0,0.1,-0.1,0" 
+class="s6_2"
+>have many custom </text>
+
+<text 
+x="175" 
+y="621" 
+dx="0,-0.1,0.1,0,-0.1,0.1,0,-0.1,0,0.1,0,0,0.1,-0.1,0,0.1,-0.1,0.1" 
+class="s6_2"
+>components on our </text>
+
+<text 
+x="175" 
+y="630" 
+dx="0,-0.2,0.1,0.1,0,-0.7" 
+class="s6_2"
+>rover.</text>
+
+<text 
+x="260" 
+y="576" 
+dx="0,-0.1,0.1,-0.1,0.1,0,0,0.1,-0.1,0" 
+class="s6_2"
+>Drive and </text>
+
+<text 
+x="260" 
+y="585" 
+dx="0,-0.1,0.1,0,-0.1,0,0,0,-0.1,0.1,-0.1,0.1" 
+class="s6_2"
+>manipulator </text>
+
+<text 
+x="260" 
+y="594" 
+dx="0,-0.1,0.1,-0.1,0.1,-0.2,0.1,0,0,0,0,0,0,0,0.1,0,0,-0.1" 
+class="s6_2"
+>controls. Also, I </text>
+
+<text 
+x="260" 
+y="603" 
+dx="0,-0.1,0,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0,-0.2,0.1,0,0,0" 
+class="s6_2"
+>think being just 10 </text>
+
+<text 
+x="260" 
+y="612" 
+dx="0,-0.1,0,0.1,0,-0.1,0,0,0,0,0,0,-0.1,0,-0.1" 
+class="s6_2"
+>people ups our </text>
+
+<text 
+x="260" 
+y="621" 
+dx="0,-0.1,0.1,0.1,-0.1,0.1,-0.1,0.1,0,0.1,0,-0.1,0.1,0,0,-0.1,0.1,0" 
+class="s6_2"
+>motivation a lot. </text>
+
+<text 
+x="260" 
+y="630" 
+dx="0,-0.1,0.1,-0.1,0.1,-0.1,0.1,0,0,0,-0.1,0.1,0" 
+class="s6_2"
+>Everyone has </text>
+
+<text 
+x="260" 
+y="639" 
+dx="0,-0.1,0,0,-0.1,0.1,0.1,-0.1,0,0.1,0,-0.1,0.1,0.1,0,0,-0.1,0.1" 
+class="s6_2"
+>important work to </text>
+
+<text 
+x="260" 
+y="648" 
+dx="0,-0.1" 
+class="s6_2"
+>do</text>
+
+<text 
+x="344" 
+y="579" 
+dx="0,-0.1,0,0.1,0,-0.1,0,0,0.1,-0.1" 
+class="s2_2"
+>Modularity</text>
+
+<text 
+x="428" 
+y="576" 
+dx="0,-0.1,-0.1,0.1,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_2"
+>Our wireless </text>
+
+<text 
+x="428" 
+y="585" 
+dx="0,-0.1,0.1,-0.1,0,0,-0.1,0,-0.1,0.1,0.1,0,-0.1,0" 
+class="s6_2"
+>communication </text>
+
+<text 
+x="428" 
+y="594" 
+dx="0,-0.1,0.1,-0.1,0,0,0,0,0,0,-0.4,-0.1,0,0,-0.1,0.1,0,0.1" 
+class="s6_2"
+>modules. We never </text>
+
+<text 
+x="428" 
+y="603" 
+dx="0,-0.1,0.1,0,0.1,0,-0.1,0.1,-0.1,0.1,-0.2,0.1,0,0,0.1,-0.1" 
+class="s6_2"
+>lost control or </text>
+
+<text 
+x="428" 
+y="612" 
+dx="0,-0.1,0.1,-0.1,0,0,-0.1,0,-0.1,0.1,0.1,0,-0.1,0,0,0.1,-0.1" 
+class="s6_2"
+>communication to </text>
+
+<text 
+x="428" 
+y="621" 
+dx="0,-0.1,0,0.1,0,-0.2,-0.1,0.1,-0.1,0.1,0,0.1,0.1,0,-0.1,0,0" 
+class="s6_2"
+>our rover at the </text>
+
+<text 
+x="428" 
+y="630" 
+dx="0,-0.1,0.1,-0.1,0,0,0.1,-0.1,0.1,0,-0.1,0" 
+class="s6_2"
+>competition.</text>
+
+<text 
+x="513" 
+y="578" 
+dx="0,0,0,0,-0.1,0.1,0,0,0,0,0,0,0,0,-0.3,0,0,0.1" 
+class="s9_2"
+>A lot of di±erent </text>
+
+<text 
+x="513" 
+y="588" 
+dx="0,-0.1,0.1,0,-0.1,0,0,0,0,0,0,0" 
+class="s9_2"
+>experiences </text>
+
+<text 
+x="513" 
+y="599" 
+dx="0,0,-0.3,0,0.1,0,-0.1,0,0,0.1" 
+class="s9_2"
+>from team </text>
+
+<text 
+x="513" 
+y="610" 
+dx="0,-0.1,0.2,-0.1,0,0,0,0" 
+class="s9_2"
+>members </text>
+
+<text 
+x="513" 
+y="620" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_2"
+>because of our </text>
+
+<text 
+x="513" 
+y="631" 
+dx="0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.1" 
+class="s9_2"
+>coop program.</text>
+
+<text 
+x="597" 
+y="577" 
+dx="0,-0.1,0.1,-0.1,0.1,0.1,-0.1,-0.1,0.1,0.1,-0.1,0,-0.1,0.1,0,-0.1,0" 
+class="s5_2"
+>Tmux for terminal</text>
+
+<text 
+x="597" 
+y="587" 
+dx="0,-0.1,-0.1,0,0,0,0,-0.1,0,0.1,0,0.1,0,-0.1" 
+class="s5_2"
+>organization, </text>
+
+<text 
+x="597" 
+y="597" 
+dx="0,-0.3,-0.1,0,0,0,0,0,0.1,-0.1,0,0,0,0,0.1" 
+class="s5_2"
+>keeping things </text>
+
+<text 
+x="597" 
+y="606" 
+dx="0,0.1,-0.2,0.1,0,0,0,0.1,-0.1,0.1,-0.1,0,0.1" 
+class="s5_2"
+>simple, team </text>
+
+<text 
+x="597" 
+y="616" 
+dx="0,0,-0.1,0,0,0,0,0.1,0,0.1,0,-0.1,0.1,-0.1,0,0" 
+class="s5_2"
+>dedication, and </text>
+
+<text 
+x="597" 
+y="626" 
+dx="0,-0.3,-0.1,0,0,0,0,0,0.1,0,0.1,-0.1,-0.1,0,0" 
+class="s5_2"
+>keeping it fun.</text>
+
+<text 
+x="681" 
+y="577" 
+dx="0,0.1,0,0,-0.1,0,-0.1,0.1,0.1,0,0,-0.1,0" 
+class="s5_2"
+>The absolute </text>
+
+<text 
+x="681" 
+y="587" 
+dx="0,0,0,-0.1,0.1,0,0.1,0,-0.1,0.1,-0.2,-0.1,0.1,0.1,-0.1,0,0" 
+class="s5_2"
+>passion from each</text>
+
+<text 
+x="681" 
+y="597" 
+dx="0,0,0,0,-0.1,0,-0.1,0,0.1,0.1" 
+class="s5_2"
+>and every </text>
+
+<text 
+x="681" 
+y="606" 
+dx="0,0.1,-0.1,0.1,0,0,0.1,-0.1,0.1,-0.1,0.1,-0.1,0,0.1" 
+class="s5_2"
+>member of our </text>
+
+<text 
+x="681" 
+y="616" 
+dx="0,0.1,-0.1,0,0.1,-0.1,0,0.1,-0.1,0,0,0,0.1,-0.1,0,-0.1" 
+class="s5_2"
+>team as well as </text>
+
+<text 
+x="681" 
+y="626" 
+dx="0,0.1,-0.1,0.1,0.1,-0.1,0,0,0.1,-0.1,0.1,-0.1,0,0,0" 
+class="s5_2"
+>our team manage</text>
+
+<text 
+x="681" 
+y="636" 
+dx="0,0.1,-0.1,0.1,0.1,-0.1,0.1" 
+class="s5_2"
+>system.</text>
+
+<text 
+x="766" 
+y="576" 
+dx="0,-0.1,0,0,0,-0.1,-0.1,0.1,0,0,0,-0.1,0,0.1,-0.1,0" 
+class="s6_2"
+>Dedicated team, </text>
+
+<text 
+x="766" 
+y="585" 
+dx="0,-0.1,0,0,0.1,0.1,0,0,-0.2,-0.1,0.1,0,0.1,0,-0.1,0.1" 
+class="s6_2"
+>always ready to </text>
+
+<text 
+x="766" 
+y="594" 
+dx="0,-0.1,0,0.1,-0.2,0,0,0,0,0,0,-0.1,0,-0.1,0,0,0,0" 
+class="s6_2"
+>learn new things, </text>
+
+<text 
+x="766" 
+y="603" 
+dx="0,-0.1,0.1,0.1,0,-0.2,0,0.1,0,-0.1,0.1" 
+class="s6_2"
+>not shy of </text>
+
+<text 
+x="766" 
+y="612" 
+dx="0,-0.1,0,0.1,-0.1,0,0,0,-0.1,0,0,0,0,-0.4,0" 
+class="s6_2"
+>challenges. We </text>
+
+<text 
+x="766" 
+y="621" 
+dx="0,-0.1,0.1,0,0,0,0,-0.4,0,0.1,0.1,0,-0.2,0.1,0.1,0,-0.1,0,0" 
+class="s6_2"
+>made great strides </text>
+
+<text 
+x="766" 
+y="630" 
+dx="0,-0.1,0,0,0,0,-0.1,-0.1,0,0,-0.1,0,0,0,-0.1,0,0,0,0,-0.1" 
+class="s6_2"
+>in learning ROS in a</text>
+
+<text 
+x="766" 
+y="639" 
+dx="0,-0.1,0.1,-0.1,0.1,0,0.1,0,-0.1,0.1,0,-0.1,0,0,-0.1,0,0.1,0,0" 
+class="s6_2"
+>matter of 3 months.</text>
+
+<text 
+x="92" 
+y="664" 
+dx="0,0,0,0,0.1,0,0.1,-0.1,0,-0.1" 
+class="s14_2"
+>Improvemen</text>
+
+<text 
+x="98" 
+y="676" 
+dx="0,-0.1,0,0.1,-0.1,0,0.1,-0.1,0,-0.1,0.1" 
+class="s14_2"
+>ts for next</text>
+
+<text 
+x="101" 
+y="708" 
+dx="0,0.1,-0.1,0" 
+class="s14_2"
+>year</text>
+
+<image preserveAspectRatio="none" x="128" y="679" width="30" height="30" xlink:href="2/img/6.png" />
+<text 
+x="175" 
+y="657" 
+dx="0,-0.6,0,0.1,0,-0.1,0,0,0,0,-0.1,0,0,0,-0.1,0.1,0,0" 
+class="s6_2"
+>Fix bugs and ²aws </text>
+
+<text 
+x="175" 
+y="666" 
+dx="0,0,0,0,-0.1,0.1,-0.1,0,0,0,0,0,-0.1,0,0,0,0.1,-0.1" 
+class="s6_2"
+>we found while at </text>
+
+<text 
+x="175" 
+y="675" 
+dx="0,0.1,-0.4,0,0,0,-0.1,0,0,0,0.1,-0.1,0,0,0,0,-0.2" 
+class="s6_2"
+>URC 2017 and push</text>
+
+<text 
+x="175" 
+y="684" 
+dx="0,0.1,-0.1,0,0,0,-0.1,0,0,-0.1,0.1,0.1,0,0,0,0,-0.1,0.1" 
+class="s6_2"
+>the boundaries of </text>
+
+<text 
+x="175" 
+y="693" 
+dx="0,0,0,-0.1,0.1,-0.1,0.1,0.1,-0.1,0.1,0,0,0.1,0,0,-0.1,0" 
+class="s6_2"
+>innovation as we </text>
+
+<text 
+x="175" 
+y="702" 
+dx="0,0,0,0,-0.1,0,0,0.1,0,-0.1,0,0,0,-0.2,0.1,-0.1,0,-0.7" 
+class="s6_2"
+>build a new rover.</text>
+
+<text 
+x="260" 
+y="659" 
+dx="0,-0.1,0,-0.3,0.2,0,-0.1,0,0,0,0,0.1,0,-0.2,0.1,0.1" 
+class="s9_2"
+>More ﬁeld tests </text>
+
+<text 
+x="260" 
+y="670" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s9_2"
+>of the whole </text>
+
+<text 
+x="260" 
+y="680" 
+dx="0,-0.4,-0.1,0.1,0,-0.9" 
+class="s9_2"
+>Rover.</text>
+
+<text 
+x="344" 
+y="657" 
+dx="0,0.1,0.1,-0.2,0,0,0.1,-0.1,0,0,0,0,0,0,-0.1,0.1,0,0.1" 
+class="s6_2"
+>Ease of use: easy </text>
+
+<text 
+x="344" 
+y="666" 
+dx="0,0,-0.1,0.1,0,0.1,0.1,-0.1,0,0.1,-0.1,0,-0.1,0.2,-0.1,0.1,0,0" 
+class="s6_2"
+>way to launch and </text>
+
+<text 
+x="344" 
+y="675" 
+dx="0,0,-0.1,0,0,-0.1,0.1,0.1,0,-0.1,0,0,0,-0.1,0,0.1,0,-0.2,0" 
+class="s6_2"
+>monitor the entire </text>
+
+<text 
+x="344" 
+y="684" 
+dx="0,0,0.1,0,-0.1,0,0,0,0,0,-0.1,0.1,0,0,0,-0.1,0,0,0.1" 
+class="s6_2"
+>system. Live sensor</text>
+
+<text 
+x="344" 
+y="693" 
+dx="0,0,0,-0.1,0,0,0.1,-0.2,0.1,0,-0.1,0.1,0,-0.1,0,0" 
+class="s6_2"
+>diagnostics and </text>
+
+<text 
+x="344" 
+y="702" 
+dx="0,-0.2,0.1,0,0,-0.2,0.1,0,0,-0.9" 
+class="s6_2"
+>robust CV.</text>
+
+<text 
+x="428" 
+y="659" 
+dx="0,-0.1,0.1,-0.3,0,-0.1,0,-0.1,0.1,0,0,0,0,0.1,0,-0.1,0" 
+class="s9_2"
+>I really want to </text>
+
+<text 
+x="428" 
+y="670" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s9_2"
+>add machine </text>
+
+<text 
+x="428" 
+y="680" 
+dx="0,-0.1,0,0,-0.1,-0.1,0,0,0,0.1,-0.2,0,0" 
+class="s9_2"
+>learning for </text>
+
+<text 
+x="428" 
+y="691" 
+dx="0,0,0,-0.2,0,0,0,0.1,-0.1,0,0" 
+class="s9_2"
+>ﬁnding the </text>
+
+<text 
+x="428" 
+y="702" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,-0.1,0,0,0,-0.3,0.2,-0.1" 
+class="s9_2"
+>tennis ball from </text>
+
+<text 
+x="428" 
+y="712" 
+dx="0,0,0,-0.1,0.1,0,0,-0.9" 
+class="s9_2"
+>further.</text>
+
+<text 
+x="513" 
+y="659" 
+dx="0,0,-0.1,0,-0.3,0,0.1,0,0,0,-0.1,0" 
+class="s9_2"
+>Improve our </text>
+
+<text 
+x="513" 
+y="670" 
+dx="0,0,-0.3,0,0,0,0,0.1" 
+class="s9_2"
+>project </text>
+
+<text 
+x="513" 
+y="680" 
+dx="0,-0.1,0,0,0,0,0,-0.1,0,0,0.1" 
+class="s9_2"
+>management.</text>
+
+<text 
+x="597" 
+y="657" 
+dx="0,0,-0.1,0,0.1,0.1,-0.1,0.1,0,0,-0.1,0,0,0,0,-0.1,0" 
+class="s6_2"
+>Clearly labelled </text>
+
+<text 
+x="597" 
+y="666" 
+dx="0,0,0,-0.2,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0.1,-0.1,0.1,0,0" 
+class="s6_2"
+>wires and pin outs, </text>
+
+<text 
+x="597" 
+y="675" 
+dx="0,-0.1,0.1,0.1,-0.1,0,0,0.1,0,0,0,-0.1,0,0,0,0" 
+class="s6_2"
+>avoid USB hubs, </text>
+
+<text 
+x="597" 
+y="684" 
+dx="0,-0.1,0,0,0,-0.1,0,0,-0.1,0.1,0,0.1,0,0,-0.2,0.1" 
+class="s6_2"
+>and a geologist </text>
+
+<text 
+x="597" 
+y="693" 
+dx="0,-0.1,0,-0.1,0,0,0,-0.1,0,0,0,-0.7" 
+class="s6_2"
+>team member.</text>
+
+<text 
+x="681" 
+y="658" 
+dx="0,0,0,0,0,-0.2,0,0.1,0,0,0,0,-0.1,0.1" 
+class="s5_2"
+>Secure bigger </text>
+
+<text 
+x="681" 
+y="668" 
+dx="0,0,0,0,0,-0.1,0.1,0.1,-0.1,0.1,-0.1,0,-0.1,0.1" 
+class="s5_2"
+>budget, start </text>
+
+<text 
+x="681" 
+y="678" 
+dx="0,0,-0.1,0.1,0,0,0,0.1,0.1,-0.1,0,0,0" 
+class="s5_2"
+>earlier, and </text>
+
+<text 
+x="681" 
+y="687" 
+dx="0,0,0,0,-0.1,0.1,0,0.1,-0.1,0,0.1" 
+class="s5_2"
+>update our </text>
+
+<text 
+x="681" 
+y="697" 
+dx="0,0.1,0,0,0,-0.1,0.1,0,0.1,0,0,0,0.1" 
+class="s5_2"
+>technologies.</text>
+
+<text 
+x="766" 
+y="657" 
+dx="0,0,0.1,-0.2,0,0,-0.1,0,-0.1,0,0,0.1,-0.1,0,0,-0.1,0.1" 
+class="s6_2"
+>More development </text>
+
+<text 
+x="766" 
+y="666" 
+dx="0,-0.1,0,0,0,0,0,-0.3,0.1,0,-0.1,0.1,0,0.1,0,0,-0.1,0" 
+class="s6_2"
+>time, exploit ROS </text>
+
+<text 
+x="766" 
+y="675" 
+dx="0,-0.1,0.1,0,0,-0.1,0,0.1,-0.2,0,0,0,-0.1,0,0,0.1" 
+class="s6_2"
+>even more, test </text>
+
+<text 
+x="766" 
+y="684" 
+dx="0,-0.1,0,0,-0.1,0,0,0,0,0.1,-0.2,0,0,-0.1,-0.1,-0.1,0,0,0" 
+class="s6_2"
+>things more often, </text>
+
+<text 
+x="766" 
+y="693" 
+dx="0,-0.1,0.1,-0.2,0,0,-0.1,0.1,0,0,-0.1,0,0.1,-0.1,0.1,0.1,-0.1,0.1,0" 
+class="s6_2"
+>more collaboration </text>
+
+<text 
+x="766" 
+y="702" 
+dx="0,0,-0.1,0.1,0,0,-0.1,0.1,-0.1,0,0.1,0,-0.1,0,0.1,0,0,0" 
+class="s6_2"
+>with other teams. </text>
+
+<text 
+x="106" 
+y="730" 
+dx="0,0,0,0,-0.1,-0.1" 
+class="s1_2"
+>Source</text>
+
+<text 
+x="113" 
+y="745" 
+dx="0,-0.1,0,0" 
+class="s1_2"
+>code</text>
+
+<text 
+x="175" 
+y="725" 
+dx="0,0.1,-0.1,-0.1,0.1,0,-0.1,0.1,-0.1,0,0" 
+class="s15_2"
+>github.com/</text>
+
+<path d="M175.5,726.7l64.2,0" class="g4_2" />
+<text 
+x="175" 
+y="738" 
+dx="0,0,0.1,-0.1,0.1,-0.2,-0.1,0.1" 
+class="s15_2"
+>mst-mrdt</text>
+
+<path d="M175.5,739.2l49.7,0" class="g4_2" />
+<text 
+x="260" 
+y="722" 
+dx="0,-0.1,0,0.1,-0.1,0.1,0,0,0,0,-0.1,0,0,-0.1,0.1,0.1,0,-0.1,0.1" 
+class="s6_2"
+>Inverse kinematics </text>
+
+<text 
+x="260" 
+y="731" 
+dx="0,-0.1,0,0,0.1" 
+class="s6_2"
+>only </text>
+
+<text 
+x="260" 
+y="740" 
+dx="0,-0.1,0,0,0.1,0,0,-0.1,0.1,0,-0.1,0,0,-0.1,0.1,0" 
+class="s6_2"
+>gist.github.com/</text>
+
+<path d="M260,741.7l62.2,0" class="g5_2" />
+<text 
+x="260" 
+y="749" 
+dx="0,-0.1,0.1,0,0,-0.1,0,0,0,0,0,-0.1,0.1,0,0,0,-0.1,0" 
+class="s6_2"
+>danielsnider/5181c</text>
+
+<path d="M260,750.6l73.2,0" class="g5_2" />
+<text 
+x="260" 
+y="758" 
+dx="0,-0.1,0,0,-0.1,0,0.1,0,0,-0.1,-0.1,0.1,0,0,-0.1,0,-0.1" 
+class="s6_2"
+>a50cef0ec8fdea5c1</text>
+
+<path d="M260,759.6l75.5,0" class="g5_2" />
+<text 
+x="260" 
+y="767" 
+dx="0,-0.1,0,0,0,0.1,-0.1,0.1,0,0" 
+class="s6_2"
+>1279a9fdbc</text>
+
+<path d="M260,768.4l45.6,0" class="g5_2" />
+<text 
+x="344" 
+y="723" 
+dx="0,0,-0.1,0.1,0,-0.1,0.1,-0.1,0.1,0,0.1,0,0.1,0,-0.1,0,-0.1,0.1,0" 
+class="s5_2"
+>https://drive.googl</text>
+
+<path d="M344.4,724.4l77.3,0" class="g5_2" />
+<text 
+x="344" 
+y="733" 
+dx="0,0,-0.1,0,0.1,0.1,-0.1,0.1,0,0,0" 
+class="s5_2"
+>e.com/open?</text>
+
+<path d="M344.4,734.2l54,0" class="g5_2" />
+<text 
+x="344" 
+y="743" 
+dx="0,0,0,0,0,0,0,0.1,0,0,-0.1,0.1,0,0" 
+class="s5_2"
+>id=0B1r9QYTd8Y</text>
+
+<path d="M344.4,744l72.7,0" class="g5_2" />
+<text 
+x="344" 
+y="752" 
+dx="0,0,0.1,-0.1,0,0,0,0,0.1,0,0.1,0,0.1,0" 
+class="s5_2"
+>NrWXNjNmdtcGlw</text>
+
+<path d="M344.4,753.8l75.9,0" class="g5_2" />
+<text 
+x="344" 
+y="762" 
+dx="0,-0.1,0.1" 
+class="s5_2"
+>MjQ</text>
+
+<path d="M344.4,763.5l16.2,0" class="g5_2" />
+<text 
+x="428" 
+y="725" 
+dx="0,-0.1,0.1,-0.1,0,0.1,-0.1,0,-0.1,0,0" 
+class="s2_2"
+>github.com/</text>
+
+<path d="M428.8,726.7l64.1,0" class="g6_2" />
+<text 
+x="428" 
+y="738" 
+dx="0,-0.1,-0.1,0.1,0,-0.3,0,-0.1,0" 
+class="s2_2"
+>itu-rover</text>
+
+<path d="M428.8,739.2l45.9,0" class="g6_2" />
+<text 
+x="513" 
+y="725" 
+dx="0,-0.1,-0.1,-0.1,0.1,0,-0.1,0.1,-0.1,0,0" 
+class="s7_2"
+>github.com/</text>
+
+<path d="M513,726.7l64.2,0" class="g7_2" />
+<text 
+x="513" 
+y="738" 
+dx="0,0,0,0,0,-0.1,0,-0.1,0.1,-0.1" 
+class="s7_2"
+>uwrobotics</text>
+
+<path d="M513,739.2l58.5,0" class="g7_2" />
+<text 
+x="597" 
+y="725" 
+dx="0,-0.1,0.1,-0.1,0,0.1,-0.1,0,-0.1,0,0" 
+class="s2_2"
+>github.com/</text>
+
+<path d="M597.5,726.7l64,0" class="g6_2" />
+<text 
+x="597" 
+y="738" 
+dx="0,-0.1,0,0,0,0,-0.1" 
+class="s2_2"
+>teamr3/</text>
+
+<path d="M597.5,739.2l42.5,0" class="g6_2" />
+<text 
+x="597" 
+y="750" 
+dx="0,0,-0.5" 
+class="s2_2"
+>URC</text>
+
+<path d="M597.5,751.6l22.2,0" class="g6_2" />
+<text 
+x="681" 
+y="725" 
+dx="0,0.1,-0.1,-0.1,0.1,0,-0.1,0.1,-0.1,0,0" 
+class="s2_2"
+>github.com/</text>
+
+<path d="M681.8,726.7l64.2,0" class="g6_2" />
+<text 
+x="681" 
+y="738" 
+dx="0,-0.2,0,0,0.1,-0.1,0" 
+class="s2_2"
+>kammce/</text>
+
+<path d="M681.8,739.2l49.5,0" class="g6_2" />
+<text 
+x="681" 
+y="750" 
+dx="0,-0.5,0.2,-0.1,0,0,0,0,-0.3,0,0" 
+class="s2_2"
+>RoverCore-S</text>
+
+<path d="M681.8,751.6l66.4,0" class="g6_2" />
+<text 
+x="766" 
+y="724" 
+dx="0,0,-0.1,0.1,0,0,0,0,0,0,-0.1" 
+class="s9_2"
+>github.com/</text>
+
+<path d="M766.3,725.2l55,0" class="g6_2" />
+<text 
+x="766" 
+y="734" 
+dx="0,-1.6,0,0,-0.1,-0.1,0,-0.1,0.1,0,0,0,0,0" 
+class="s9_2"
+>Team-Anveshak/</text>
+
+<path d="M766.3,735.9l75,0" class="g6_2" />
+<text 
+x="766" 
+y="745" 
+dx="0,-0.3,-0.1,0.1,0,-0.6,0.1,0,0,-0.1,0.1,-0.3,0" 
+class="s9_2"
+>rover-control</text>
+
+<path d="M766.3,746.6l58.5,0" class="g6_2" />
+<image preserveAspectRatio="none" x="113" y="745" width="29" height="30" xlink:href="2/img/7.png" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: DejaVuSans-Bold_29;
+	src: url("fonts/DejaVuSans-Bold_29.woff") format("woff");
+}
+
+@font-face {
+	font-family: DejaVuSans_24;
+	src: url("fonts/DejaVuSans_24.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
